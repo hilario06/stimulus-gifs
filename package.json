@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Starting code for First JavaScript ES6 lecture",
   "main": "index.js",
-  "repository": "https://github.com/lewagon/webpack-boilerplate",
+  "repository": "https://github.com/hilario06/stimulus-gifs",
   "author": "ssaunier",
   "license": "MIT",
   "scripts": {
