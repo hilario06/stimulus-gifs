@@ -11,3 +11,16 @@
   flex-wrap: wrap;
   justify-content: space-between;
 }
+
+.content-gifs .card {
+  cursor: grab;
+}
+
+.content-gifs .card:active {
+  cursor: grabbing;
+}
+
+.content-gifs .card.ghost {
+  filter: grayscale(1);
+  opacity: 0.5;
+}

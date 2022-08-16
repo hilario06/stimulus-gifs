@@ -5,7 +5,7 @@ export default class extends Controller {
   static targets = ["input", "results", "titleSearch"];
 
   connect() {
-    console.log("movies controller connected");
+    console.log("gifs controller connected");
     this.getGifs('popeye');
   }
 
