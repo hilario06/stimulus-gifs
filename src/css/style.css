@@ -1,0 +1,13 @@
+@import url("components/container.css");
+@import url("components/card.css");
+@import url("components/search.css");
+
+*{
+  box-sizing: border-box;
+}
+
+.content-gifs{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
